@@ -41,7 +41,7 @@ const Countries = () => {
 
   return (
     <div>
-      <h1>World Kingdoms</h1>
+      <h1>Kingdoms</h1>
       {/* <label htmlFor="countries-dropdown">Select a country:</label> */}
       <select id="countries-dropdown" onChange={handleCountryChange}>
         <option value="">Select a Country</option>
